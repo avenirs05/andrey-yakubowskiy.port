@@ -25,7 +25,7 @@
         <ul>
             <li><a href="#ws-about" data-link="wsj-anchor">О центре</a></li>
             <li><a href="#ws-psyho" data-link="wsj-anchor">Наша методика</a></li>
-            <li><a href="#ws-doctors" data-link="wsj-anchor">Врачи клиники</a></li>
+<!--             <li><a href="#ws-doctors" data-link="wsj-anchor">Врачи клиники</a></li> -->
             <li><a href="#ws-price"   data-link="wsj-anchor">Цены</a></li>
             <li><a href="#ws-license" data-link="wsj-anchor">Лицензии</a></li>
             <li><a href="#ws-contact" data-link="wsj-anchor">Контакты</a></li>
@@ -47,7 +47,7 @@
         <ul>
             <li><a href="#ws-about" data-link="wsj-anchor">О центре</a></li>
             <li><a href="#ws-psyho" data-link="wsj-anchor">Наша методика</a></li>
-            <li><a href="#ws-doctors" data-link="wsj-anchor">Врачи клиники</a></li>
+<!--             <li><a href="#ws-doctors" data-link="wsj-anchor">Врачи клиники</a></li> -->
             <li><a href="#ws-price"   data-link="wsj-anchor">Цены</a></li>
             <li><a href="#ws-license" data-link="wsj-anchor">Лицензии</a></li>
             <li><a href="#ws-contact" data-link="wsj-anchor">Контакты</a></li>
