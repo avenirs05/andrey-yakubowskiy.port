@@ -321,7 +321,7 @@
             <div class="wsb-doctor-y__text_name">Алексей Якубовский</div>
             <div class="wsb-doctor-y__text_pos">Кандидат наук, врач, психотерапевт</div>
             <div class="wsb-doctor-y__text_other">
-                Текст о том, что доктор очень опытный, много где учился и помогал людям. Имеет регалии, публикации и очень знаменит в профессиональных кругах. Текст о том, что доктор очень опытный, много где учился и помогал людям. Имеет регалии, публикации и очень знаменит в профессиональных кругах. Имеет регалии, публикации и очень знаменит в профессиональных кругах. Текст о том, что доктор очень опытный, много где учился и помогал людям. Использует методику и решил открыть свой центр
+                Образование: МГУ им. Ломоносова (факультет Психологии), ММА им. И.М. Сеченова. Опыт работы врача-психотерапевта свыше 20 лет. Основные направления психотерапевтической практики: проводит работу с пациентами, страдающими тревожно-фобическими расстройствами (в том числе паническими атаками); постстрессовыми расстройствами; невротическими расстройствами; соматоформными дисфункциями ВНС (в том числе вегето-сосудистой дистонией, головокружением); психосоматическими расстройствами.
             </div>
         </div>
         <div class="wsb-doctor-y__video">
@@ -676,7 +676,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="wsw-doctors" id="ws-doctors">
+<!-- 		<div class="wsw-doctors" id="ws-doctors">
 			<div class="container">
 				<div class="wsb-doctors">
     <div class="wsb-doctors__title">
@@ -984,7 +984,7 @@
     </div>
 </div>    </div>
 </div>			</div>
-		</div>
+		</div> -->
 		<div class="wsw-price" id="ws-price">
 			<div class="container">
 				<div class="hsb-price">
@@ -1243,7 +1243,14 @@
         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
     </ul>
-</div>                        <a class="hsb-created" href="http://orangecreative.ru/" target="_blank">Разработка лендинг пейдж <br>Orange Creative</a>                    </div>
+</div>                        <a class="hsb-created" href="http://orangecreative.ru/" target="_blank"><div class="col logo d-flex align-items-center">
+    Сайт сделан в&nbsp;<span class="d-none d-lg-block">веб-студии</span>
+    <a href="../smartfox.local" target="_blank" style="display: block; text-decoration: none;"><div style="padding: 0px 5px; display: flex; align-items: center; border-radius: 3px; justify-content: center;">
+            <img class="logo-img" src="/img/logo-fox.png" height="18" alt="">&nbsp;
+            <span class="logo-text" style="font-size: 18px; color: rgb(251, 140, 0);">SMART FOX</span>
+        </div>
+    </a>
+</div></a>                    </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
                     <div class="row">
