@@ -5,7 +5,7 @@
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no, maximum-scale=1" />
         
         <title>Центр доктора Якубовского - Амбулаторное лечение психических расстройств</title>
-		
+		<link rel="shortcut icon" href="/img/fav.png" type="image/png">
 		<link rel="stylesheet" href="stylesheets/other/font-awesome.css">
 		<link rel="stylesheet" href="stylesheets/other/animate.css">
 		<link rel="stylesheet" href="css/cbox/colorbox.css">
