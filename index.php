@@ -64,7 +64,7 @@
 							<div class="wsb-contact">
     <div class="wsb-contact__tel"><a href="tel:74993907156">+7 (499) 390-71-56</a></div>
     <div class="wsb-contact__prime-time">с 10:00 до 21:00, без выходных</div>
-    <div class="wsb-contact__btn"><a href="javascript:" class="wsj-btn-popup" data-id="popup-call">заказать обратный звонок</a></div>
+    <div class="wsb-contact__btn"><a href="javascript:" class="wsj-btn-popup" data-id="popup-call"><!-- заказать обратный звонок --></a></div>
 </div>						</div>
 						<div class="col-sm-12 visible-sm">
 							<div class="wsb-menu wsj-menu-parent">
@@ -1257,7 +1257,7 @@
                         <div class="wsb-contact">
     <div class="wsb-contact__tel"><a href="tel:74993907156">+7 (499) 390-71-56</a></div>
     <div class="wsb-contact__prime-time">с 10:00 до 21:00, без выходных</div>
-    <div class="wsb-contact__btn"><a href="javascript:" class="wsj-btn-popup" data-id="popup-call">заказать обратный звонок</a></div>
+    <div class="wsb-contact__btn"><a href="javascript:" class="wsj-btn-popup" data-id="popup-call"><!-- заказать обратный звонок --></a></div>
 </div>                    </div>
                 </div>
             </div>
@@ -1356,18 +1356,19 @@
             <a href="javascript:" class="wsj-popup-close" data-id="popup-call" onclick="$('.wsj-popup-wrap').hide('normal');$('html,body').css({overflowY: 'auto', overflowX: 'hidden'});" class="wsj-popup-close"></a>
         </div>
         <div class="hsb-popup__title">
-            Заказать обратный звонок
+            <!-- Заказать обратный звонок -->
         </div>
         <div class="hsb-popup__subtitle">
             Мы перезвоним Вам в течении 20 минут и ответим на все интересующие Вас вопросы.
         </div>
         <div class="hsb-popup__content">
             <div class="hsb-popup__form">
-                <form method="POST">
+                <form method="POST" action="thank-you.php">
                     <input type="hidden" name="form-action" value="consultation">
                     <input type="text" placeholder="Ваше имя" name="name">
                     <input type="text" placeholder="Ваш телефон" name="phone">
                     <button type="submit" class="">Перезвоните мне</button>
+                    <!-- <input type="submit" value="Send Request"> -->
                 </form>
             </div>
         </div>
