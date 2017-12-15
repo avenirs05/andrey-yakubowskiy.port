@@ -1243,9 +1243,9 @@
         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
     </ul>
-</div>                        <a class="hsb-created" href="http://orangecreative.ru/" target="_blank"><div class="col logo d-flex align-items-center">
+</div>                        <a class="hsb-created" href="http://smartfox.su/" target="_blank"><div class="col logo d-flex align-items-center">
     Сайт сделан в&nbsp;<span class="d-none d-lg-block">веб-студии</span>
-    <a href="../smartfox.local" target="_blank" style="display: block; text-decoration: none;"><div style="padding: 0px 5px; display: flex; align-items: center; border-radius: 3px; justify-content: center;">
+    <a href="http://smartfox.su/" target="_blank" style="display: block; text-decoration: none;"><div style="padding: 0px 5px; display: flex; align-items: center; border-radius: 3px; justify-content: center;">
             <img class="logo-img" src="/img/logo-fox.png" height="18" alt="">&nbsp;
             <span class="logo-text" style="font-size: 18px; color: rgb(251, 140, 0);">SMART FOX</span>
         </div>
